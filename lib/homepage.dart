@@ -39,7 +39,7 @@ class HomePage extends StatelessWidget {
             UserAccountsDrawerHeader(
               decoration: BoxDecoration(color: const Color.fromARGB(255, 19, 217, 252)),
               accountName: Text("Jorge Antonio Toledo" ), 
-              accountEmail: Text("JToledo@gmail.com"), 
+              accountEmail: Text("a.22308051281106@gmail.com.mx"), 
               currentAccountPicture: GestureDetector( 
                 child: CircleAvatar(
                   child: Text(
